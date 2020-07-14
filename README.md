@@ -34,4 +34,5 @@ for more structured guides I'd recommend these amazing repos:
 * Peer To Peer Architecture
 
 
-
+# Resources:
+* [Web Application and Software Architecture 101 - Shivang Sarawagi](https://www.educative.io/courses/web-application-software-architecture-101)
