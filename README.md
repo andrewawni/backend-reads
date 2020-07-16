@@ -8,6 +8,7 @@ for more structured guides I'd recommend these amazing repos:
 * [System Design Primer](https://github.com/donnemartin/system-design-primer)
 * [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
 
+
 # Articles:
 * Case Studies
   * [The Uber Tech Stack: Part I](https://eng.uber.com/tech-stack-part-one-foundation/)
@@ -15,6 +16,7 @@ for more structured guides I'd recommend these amazing repos:
 * Scalability
   * [Netflix's 1 Million Writes per Second](https://netflixtechblog.com/revisiting-1-million-writes-per-second-c191a84864cc)
   * [How HotStar Scaled With 10.3 Million Concurrent Users](https://www.8bitmen.com/how-hotstar-scaled-with-10-3-million-concurrent-users-an-architectural-insight/)
+  * [Scaling Facebook to 500 million users and beyond](https://engineering.fb.com/core-data/scaling-facebook-to-500-million-users-and-beyond/)
 * Data Ingestion/ Stream Processing
   * [Linkedin's data ingestion tool: Gobblin](https://engineering.linkedin.com/data-ingestion/gobblin-big-data-ease)
   * [Netflix's KeyStone: A Stream Processing Platform](https://netflixtechblog.com/keystone-real-time-stream-processing-platform-a3ee651812a)
