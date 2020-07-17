@@ -38,3 +38,4 @@ for more structured guides I'd recommend these amazing repos:
 
 # Resources:
 * [Web Application and Software Architecture 101 - Shivang Sarawagi](https://www.educative.io/courses/web-application-software-architecture-101)
+* [Microservices Architecture in Arabic - Mohamed Sweelam](https://www.youtube.com/playlist?list=PLgAqrVq84PDdfiDow3YVsgc1q34JD415Z)
