@@ -34,6 +34,8 @@ for more structured guides I'd recommend these amazing repos:
   * [Istio: When not to use Microservices](https://blog.christianposta.com/microservices/istio-as-an-example-of-when-not-to-do-microservices/)
 * Databases
 * Peer To Peer Architecture
+* Networks
+  * [25 things about networks that every Engineer/Architect needs to know - Amr Ali](https://medium.com/dev-genius/25-things-about-networking-that-every-engineer-architect-needs-to-know-313e634b9456)
 
 
 # Resources:
