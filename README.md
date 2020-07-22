@@ -10,6 +10,8 @@ for more structured guides I'd recommend these amazing repos:
 
 
 # Articles:
+* Miscellaneous
+  * [MapReduce: Simplified Data Processing on Large Clusters](https://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf)
 * Case Studies
   * [The Uber Tech Stack: Part I](https://eng.uber.com/tech-stack-part-one-foundation/)
   * [The Uber Tech Stack: Part II](https://eng.uber.com/uber-tech-stack-part-two/)
