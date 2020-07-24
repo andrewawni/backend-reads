@@ -34,6 +34,7 @@ for more structured guides I'd recommend these amazing repos:
   * [Linkedin: Killing Leo](https://engineering.linkedin.com/architecture/brief-history-scaling-linkedin)
   * [Segment: Goodbye Microsevices](https://segment.com/blog/goodbye-microservices/)
   * [Istio: When not to use Microservices](https://blog.christianposta.com/microservices/istio-as-an-example-of-when-not-to-do-microservices/)
+  * [Uber: Domain Oriented Microservices Architecture](https://eng.uber.com/microservice-architecture/?fbclid=IwAR0no6Cs63o1RylTD3qgNjDbRRXx2ETExUQbzK7ndub_Q8ZKPVmKBCvxjrE)
 * Databases
 * Peer To Peer Architecture
 * Networks
