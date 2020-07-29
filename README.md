@@ -45,3 +45,4 @@ for more structured guides I'd recommend these amazing repos:
 * [Web Application and Software Architecture 101 - Shivang Sarawagi](https://www.educative.io/courses/web-application-software-architecture-101)
 * [Microservices Architecture in Arabic - Mohamed Sweelam](https://www.youtube.com/playlist?list=PLgAqrVq84PDdfiDow3YVsgc1q34JD415Z)
 * [MSoftware & Web Application Architecture - The TechCave](https://www.youtube.com/playlist?list=PLSyLGd0D0b4ThfElztKEueqQ5SIHJjUEU)
+* [Martin Fowler's blog](https://martinfowler.com/)
