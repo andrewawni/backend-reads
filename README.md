@@ -46,3 +46,4 @@ for more structured guides I'd recommend these amazing repos:
 * [Microservices Architecture in Arabic - Mohamed Sweelam](https://www.youtube.com/playlist?list=PLgAqrVq84PDdfiDow3YVsgc1q34JD415Z)
 * [MSoftware & Web Application Architecture - The TechCave](https://www.youtube.com/playlist?list=PLSyLGd0D0b4ThfElztKEueqQ5SIHJjUEU)
 * [Martin Fowler's blog](https://martinfowler.com/)
+* [Software Engineering By Example - Hussein Naseer](https://www.youtube.com/playlist?list=PLQnljOFTspQXOkIpdwjsMlVqkIffdqZ2K)
